@@ -12,3 +12,4 @@ NLP：spelling correction
 4. noisy channel
    1. 利用之前的错词的数据计算四种操作的转移矩阵
    2. 利用ngram的数据，可以计算出可能性，最终可以获得改正的结果
+   3. ​
